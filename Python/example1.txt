@@ -1,0 +1,42 @@
+import datetime
+
+# get current date and time
+now=datetime.datetime.now()
+
+log_msg=f"Log entry created at {now}: This  is a log message."
+
+with open("example.txt",'a') as file:
+    file.write(log_msg+"\n")
+
+print(" Log entry has been written to the log file.")import datetime
+
+# get current date and time
+now=datetime.datetime.now()
+
+log_msg=f"Log entry created at {now}: This  is a log message."
+
+with open("example.txt",'a') as file:
+    file.write(log_msg+"\n")
+
+print(" Log entry has been written to the log file.")import datetime
+
+# get current date and time
+now=datetime.datetime.now()
+
+log_msg=f"Log entry created at {now}: This  is a log message."
+
+with open("example.txt",'a') as file:
+    file.write(log_msg+"\n")
+
+print(" Log entry has been written to the log file.")test Good morning everyone. https://www.google.com,
+import datetime
+
+# get current date and time
+now=datetime.datetime.now()
+
+log_msg=f"Log entry created at {now}: This  is a log message."
+
+with open("example.txt",'a') as file:
+    file.write(log_msg+"\n")
+
+print(" Log entry has been written to the log file.")
